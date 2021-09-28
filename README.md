@@ -21,11 +21,11 @@
 <a href="https://vant-contrib.gitee.io/vant/v3/#/zh-CN"><code><img height="20" src="./images/vant.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
+<!-- ### 开源项目
 
 [![qq-bot](https://my.heehda.top/)](https://github.com/ZhaoTonggang/Anime-profile)
 [![qq-bot](https://nes.heheda.top)](https://github.com/ZhaoTonggang/nes)
-<br><br><br>
+<br><br><br> -->
 
 ### Github 活跃度
 
